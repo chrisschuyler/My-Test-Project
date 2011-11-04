@@ -19,6 +19,7 @@ namespace ConsoleApplication1
 
                 string s = config.AppSettings.Settings["WindowsLoginCredentials"].Value;
             }
+//stuff
 
             Console.Read();
         }
